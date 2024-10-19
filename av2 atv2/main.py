@@ -40,4 +40,4 @@ def menu_produtos ():
         except ValueError:
             print ('digite um numero\n')
 
-menu_produtos()
+menu_login ()
